@@ -28,7 +28,7 @@ _Cursiva_
 | A       | 123  |
 
 ###  Enlaces
-[Mi repositorio](https://github.com/neroyami97-dot/mi-primer-repositorio)
+[Mi-primer-repositorio](https://github.com/neroyami97-dot/mi-primer-repositorio)
 
 
 ###  Imágenes
