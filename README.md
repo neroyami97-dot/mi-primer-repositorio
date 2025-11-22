@@ -1,6 +1,6 @@
 # Sistema de Gestión de Biblioteca – Caso 4
 
-## 📝 Descripción del Caso
+## Descripción del Caso
 Este proyecto implementa un **Sistema de Gestión de Biblioteca** que permite registrar libros, realizar préstamos y devoluciones, y controlar el estado de disponibilidad de cada ejemplar. El objetivo es facilitar la administración básica de una biblioteca académica mediante un sistema claro, organizado y fácil de usar.
 ## Objetivos del Sistema
 - Registrar y organizar libros dentro del catálogo.  
