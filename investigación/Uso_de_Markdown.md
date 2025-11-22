@@ -36,7 +36,7 @@ _Cursiva_
 
 ###  Imágenes
 ### Historial de commits
-![Historial](Evidencias/historial_commits.png)
+[![Historial](Evidencias/historial_commits.png)](https://github.com/neroyami97-dot/mi-primer-repositorio/blob/5b180d200cd622e4bc14445d2e74cdadf8c84192/Evidencias/estructura_repo.png)
 
 
 ##  Ventajas de usar Markdown + GitHub
