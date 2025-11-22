@@ -36,13 +36,7 @@ _Cursiva_
 
 ###  Imágenes
 ### Historial de commits
-![Historial](https://github.com/neroyami97-dot/mi-primer-repositorio/evidencias/historial_commits.png)
-
-### Versionado de documentos
-![Versionado](https://github.com/neroyami97-dot/mi-primer-repositorio/evidencias/versionado_docs.png)
-
-### Estructura del repositorio
-![Estructura](https://github.com/neroyami97-dot/mi-primer-repositorio/evidencias/estructura_repo.png)
+![Historial](Evidencias/historial_commits.png)
 
 
 ##  Ventajas de usar Markdown + GitHub
