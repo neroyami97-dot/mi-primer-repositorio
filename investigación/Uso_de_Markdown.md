@@ -23,17 +23,27 @@ Es ampliamente usado en desarrollo de software, documentación técnica y plataf
 _Cursiva_
 
 ###  Tablas
-| Columna | Dato |
-| ------- | ---- |
-| A       | 123  |
+| Caso     | Descripción                           | Entrada                   | Resultado Esperado                                       |
+| -------- | ------------------------------------- | ------------------------- | -------------------------------------------------------- |
+| **CP01** | Registrar nuevo libro                 | Datos completos del libro | Libro registrado correctamente y aparece como Disponible |
+| **CP02** | Prestar libro disponible              | Código “L-102”            | El libro cambia estado a *Prestado*                      |
+| **CP03** | Intentar prestar un libro ya prestado | Código “L-102”            | Mensaje: “Libro no disponible”                           |
+
 
 ###  Enlaces
 [Mi-primer-repositorio](https://github.com/neroyami97-dot/mi-primer-repositorio)
 
 
 ###  Imágenes
+### Historial de commits
+![Historial](https://github.com/neroyami97-dot/mi-primer-repositorio/evidencias/historial_commits.png)
 
----
+### Versionado de documentos
+![Versionado](https://github.com/neroyami97-dot/mi-primer-repositorio/evidencias/versionado_docs.png)
+
+### Estructura del repositorio
+![Estructura](https://github.com/neroyami97-dot/mi-primer-repositorio/evidencias/estructura_repo.png)
+
 
 ##  Ventajas de usar Markdown + GitHub
 
